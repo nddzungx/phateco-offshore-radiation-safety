@@ -1,0 +1,61 @@
+PHATECO Offshore Radiation Safety
+Copyright (c) 2026 PHATECO. All rights reserved.
+Bản quyền (c) 2026 PHATECO. Bảo lưu mọi quyền.
+
+GIẤY PHÉP SỬ DỤNG NỘI BỘ (PROPRIETARY – INTERNAL USE ONLY)
+
+1. Phần mềm này (gồm mã nguồn, nội dung đào tạo, hình minh hoạ và tài liệu
+   kèm theo) là tài sản của PHATECO.
+
+2. Chỉ nhân viên của PHATECO và khách hàng được PHATECO cho phép mới được
+   xem và sử dụng phần mềm, cho mục đích đào tạo và tham khảo về an toàn
+   bức xạ trong công việc với PHATECO.
+
+3. Không được sao chép, phân phối, bán, cho thuê, sửa đổi, đăng lại hoặc
+   dùng phần mềm cho mục đích khác khi chưa có sự đồng ý bằng văn bản của
+   PHATECO.
+
+4. Phần mềm được cung cấp "nguyên trạng" (AS IS), không kèm bất kỳ bảo đảm
+   nào. Kết quả tính toán chỉ để đào tạo và minh hoạ, không thay thế đánh giá
+   an toàn bức xạ chính thức, giấy phép của cơ quan quản lý hay số đo thực tế.
+   PHATECO không chịu trách nhiệm về thiệt hại phát sinh từ việc sử dụng
+   phần mềm.
+
+Liên hệ xin phép: nddzungx@gmail.com
+
+-------------------------------------------------------------------------------
+This software (source code, training content, illustrations and documents) is
+the property of PHATECO. Use is limited to PHATECO staff and customers
+authorised by PHATECO, for radiation safety training and reference. Copying,
+distribution, sale, modification or republication without PHATECO's written
+consent is not permitted. The software is provided "AS IS" without warranty;
+results are for training and illustration only and do not replace official
+radiation safety assessments, regulatory licences or on-site measurements.
+
+-------------------------------------------------------------------------------
+THIRD-PARTY SOFTWARE / PHẦN MỀM BÊN THỨ BA
+
+This application includes three.js r147 (including OrbitControls), used under
+the MIT License:
+
+The MIT License
+
+Copyright © 2010-2022 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
