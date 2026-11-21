@@ -4,7 +4,11 @@
 
 Ứng dụng phục vụ đào tạo an toàn bức xạ cho công việc chụp ảnh phóng xạ công nghiệp bằng nguồn Ir-192 trên giàn khai thác ngoài khơi. Người học là cả nhân viên bức xạ lẫn người làm việc khác trên giàn, người Việt và người nước ngoài.
 
-**Xem trực tuyến:** https://nddung-app.github.io/phateco-offshore-radiation-safety/
+**Xem trực tuyến:** https://nddzungx.github.io/phateco-offshore-radiation-safety/
+
+**Mã nguồn:** https://github.com/nddzungx/phateco-offshore-radiation-safety
+
+**Phiên bản hiện tại:** 1.0.1 (21/11/2026) – xem [CHANGELOG.md](CHANGELOG.md)
 
 > Ứng dụng dùng nội bộ. Số liệu tính toán chỉ để đào tạo và minh hoạ, không thay thế đánh giá an toàn bức xạ chính thức, giấy phép hay số đo thực tế tại hiện trường.
 
